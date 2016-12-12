@@ -1,0 +1,11 @@
+####
+Run below commands to build python project:
+python setup.py sdist
+or
+python setup.py install
+
+
+##
+To run main method of project:
+python run.py
+
